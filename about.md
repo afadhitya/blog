@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi Stranger! Nice to meet you, thank you for visiting my blog, I hope you enjoy with the content here. Happy Reading!
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[afadhitya@gmail.com](afadhitya@gmail.com)
