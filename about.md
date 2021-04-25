@@ -12,5 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[afadhitya@gmail.com](afadhitya@gmail.com)
-[mail@afadhitya.com](mail@afadhitya.com)
+[afadhitya@gmail.com](mailto:afadhitya@gmail.com)
+[mail@afadhitya.com](mailto:mail@afadhitya.com)
